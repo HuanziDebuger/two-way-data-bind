@@ -28,4 +28,4 @@ Vue.js 最核心的功能有两个，一是响应式的数据绑定系统，二�
 
        obj.hello = "abc" // 为属性赋值，就是调用set函数，赋值其实是传参 
        
-<p><img src="./images/img(1).png"></p>
+<p align="center"><img width="100%" src="./images/img(1).png"></p>
